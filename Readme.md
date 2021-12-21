@@ -1,5 +1,8 @@
 # Notes & Tutorials for CS3200 Spring 2022
 
 
-## Installation Instructions
-**0. Run Metaphlan 3.0 and Humann 3.0 on your metagenomic samples, following the instructions from the Huttenhower Lab website.**
+## MatLab & Octave Installation Instructions
+Note: Either Matlab or Octave can be used in this course.
+**0. MatLab Installation Instructions.**
+**1. Octave Installation Instructions.**
+
